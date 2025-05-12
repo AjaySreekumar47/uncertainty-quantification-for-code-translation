@@ -22,7 +22,8 @@ Our evaluation utilized a diverse set of Fortran code samples, including:
 
 For each Fortran code sample, we created ground truth C++ translations manually verified by domain experts to ensure functional equivalence and adherence to modern C++ best practices.
 
-Code samples were sourced from https://rosettacode.org/wiki/Category:Fortran
+Anu open source code samples used were sourced from: 
+https://rosettacode.org/wiki/Category:Fortran
 
 ## Prompting Strategy
 
